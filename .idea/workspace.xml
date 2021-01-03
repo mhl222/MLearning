@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7235ac03-5906-46eb-9374-7b41d74825d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/man.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/man.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/woman.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/成绩集.xlsx" beforeDir="false" />
-    </list>
+    <list default="true" id="7235ac03-5906-46eb-9374-7b41d74825d6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,7 +102,7 @@
       <workItem from="1609501037803" duration="307000" />
       <workItem from="1609583084051" duration="2170000" />
       <workItem from="1609603952962" duration="4870000" />
-      <workItem from="1609662317743" duration="1790000" />
+      <workItem from="1609662317743" duration="2124000" />
     </task>
     <servers />
   </component>
